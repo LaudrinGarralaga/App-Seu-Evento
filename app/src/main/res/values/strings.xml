@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">App de Eventos</string>
+    <string name="e_mail_para_retorno">Email</string>
+    <string name="enviar_convite">Enviar Convite</string>
+    <string name="nome_do_convidado">Digite o nome do convidado</string>
+    <string name="botao_adicionar">Adicionar Evento</string>
+    <string name="botao_alterar">Alterar</string>
+    <string name="bota_excluir">Excluir</string>
+    <string name="FiltraPor">Filter Por</string>
+    <string name="pre_o_de_venda">Preço</string>
+    <string name="atracao">Atração</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="data">Data</string>
+    <string name="local">Local</string>
+    <string name="nome">Nome</string>
+    <string name="incluir_ve_culo">Incluir</string>
+    <string name="incluir_evento">Incluir Evento</string>
+    <string name="alterar_evento">Alterar Evento</string>
+    <string name="excluir_evento">Excluir Evento</string>
+    <string name="preco">Preço</string>
+    <string name="filtar_por">Filtrar Por</string>
+    <string name="codigo">Informe o código</string>
+    <string name="ok">Ok</string>
+    <string name="nome_pesquisa">Nome do Evento</string>
+    <string name="id_evento">Id Evento</string>
+    <string name="usuario">Usuário</string>
+
+</resources>
